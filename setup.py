@@ -13,7 +13,7 @@ setup(
         'matplotlib == 3.2.1',
         'sklearn',
         'cmake == 3.17.2',
-        'pillow == 7.1.2',
+        'pillow == 8.3.2',
         'scipy == 1.4.1',
         'keras == 2.3.1',
         'h5py == 2.10.0',
